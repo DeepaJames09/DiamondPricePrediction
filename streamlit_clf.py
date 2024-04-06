@@ -1,3 +1,8 @@
+pip install joblib
+pip install matplotlib
+pip install statsmodels
+
+
 import streamlit as st
 import joblib
 import pandas as pd
